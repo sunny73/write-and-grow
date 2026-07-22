@@ -1,0 +1,15 @@
+# OS 生成文件
+.DS_Store
+Thumbs.db
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+~$*
+
+# 大体积媒体（保持仓库轻量；如需忽略 assets 内大图可取消下行注释）
+# assets/**

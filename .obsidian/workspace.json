@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "articles/学习方法/我常用的obisidian插件推荐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "我常用的obisidian插件推荐"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "b2d16f884af49e56",
   "lastOpenFiles": [
+    "README.md",
     "articles/效率提升",
     "articles/未命名",
     "articles/学习方法/我常用的obisidian插件推荐.md",

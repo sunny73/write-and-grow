@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-image-toolkit",
+	"name": "Image Toolkit",
+	"version": "0.2.0",
+	"minAppVersion": "0.1.0-beta",
+	"description": "This plugin provides some image toolkit.",
+	"author": "sissilab",
+	"authorUrl": "https://github.com/sissilab/obsidian-image-toolkit",
+	"isDesktopOnly": true
+}

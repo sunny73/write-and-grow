@@ -13,3 +13,6 @@ Thumbs.db
 
 # 大体积媒体（保持仓库轻量；如需忽略 assets 内大图可取消下行注释）
 # assets/**
+
+# 微信发布插件含 appSecret 等敏感信息，不要入库（官方也建议忽略）
+.obsidian/plugins/wechat-publisher/data.json

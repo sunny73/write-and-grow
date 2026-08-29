@@ -185,11 +185,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b2d16f884af49e56",
   "lastOpenFiles": [
+    "articles/学习方法/我常用的obisidian插件推荐.md",
     "articles/技术/ai相关",
     "articles/学习方法",
     "articles/英语",

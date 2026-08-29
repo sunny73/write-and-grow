@@ -1,0 +1,9 @@
+{
+  "id": "noterelay",
+  "name": "NoteRelay",
+  "version": "0.1.6",
+  "minAppVersion": "1.7.2",
+  "description": "将 Markdown 笔记排版后复制到公众号、小红书和 X.",
+  "author": "NoteRelay Contributors",
+  "isDesktopOnly": true
+}

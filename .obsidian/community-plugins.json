@@ -1,7 +1,12 @@
 [
+  "obsidian-custom-attachment-location",
   "obsidian-git",
-  "obsidian-paste-image-rename",
-  "wechat-publisher",
   "obsidian-image-toolkit",
-  "noterelay"
+  "obsidian-note-linker",
+  "obsidian-paste-image-rename",
+  "obsidian-publisher",
+  "extended-graph",
+  "noterelay",
+  "templater-obsidian",
+  "wechat-publisher"
 ]
